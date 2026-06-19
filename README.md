@@ -1,5 +1,5 @@
 # Automated-File-System-Manager
-Makes use of pathlib over os.path to demonstrate modern Python proficiency. Also made sure that there were zero external dependencies, this script only uses standard libraries meaning this script can run instantly on any machine without needing to run pip install, making it highly portable across a corporate network
+A script that organises files in the Download folder of Windows, Linux and macOS,. It makes use of pathlib over os.path to demonstrate modern Python proficiency. Also made sure that there were zero external dependencies, this script only uses standard libraries meaning this script can run instantly on any machine without needing to run pip install, making it highly portable across a corporate network
 
 ## Scripts
 For Windows: Open Task Scheduler, Create Basic Task, Set Trigger to prefered interval, Set Action to Start a Program and type python in program path and provide the file path as an argument.\
